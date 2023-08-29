@@ -2,3 +2,5 @@ andri kerj
 -konsisten membuat project
 -membuat platform
 -membuat forum diskusi
+=membuat merch shop
+-kolaborasi dengan banyak expert
